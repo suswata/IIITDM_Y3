@@ -1,7 +1,6 @@
 '''
 This program is done by Anumakonda Sai Venkata Dhanush 
 Roll No : CS20B1057
-Binary Search
 '''
 '''
 Write a python script to implement student details using a dictionary.
