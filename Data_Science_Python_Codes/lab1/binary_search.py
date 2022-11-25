@@ -1,7 +1,8 @@
-#Done By CS20B1057
-#A Dhanush
-#Binary Search
-n = int(input("Enter size of list!:  "))
+'''
+This program is done by Anumakonda Sai Venkata Dhanush 
+Roll No : CS20B1057
+Binary Search
+'''
 l=0 #low
 h=n-1 #high
 
