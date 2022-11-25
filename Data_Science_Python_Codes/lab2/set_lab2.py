@@ -1,5 +1,8 @@
-#Done by CS20B1057
-#ANUMAKONDA SAI VENKATA  DHANUSH
+'''
+This program is done by Anumakonda Sai Venkata Dhanush 
+Roll No : CS20B1057
+
+'''
 mydict = dict("")
 temp = True
 while(temp):
